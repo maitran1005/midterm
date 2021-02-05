@@ -146,7 +146,12 @@ h2, .about1{
 	box-sizing: border-box;
 	font-size:14px;
 	border-radius:8px;
-} 	
+} 
+.form textarea {
+	cols:30;
+	rows:8;
+	height:250px;
+}
 .form button {
 	background: green;
 	width: 100%;
