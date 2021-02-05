@@ -1,0 +1,212 @@
+/*Navigation*/
+ul.s {
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #696969;
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.s li a {
+	float:left;
+	display: inline;
+	padding:0.5em;
+	padding: 15px 20px;
+	text-align:center;
+	font-size: 18px;
+	color: white;
+}
+.s li a:hover{
+	background-color: #008080;
+	text-align: center;
+}
+
+
+
+/*body*/
+.page4{
+	display:block;
+	background: url("https://th.bing.com/th/id/R7ce57fdcbe4c05f2466c3d6ec4f463ca?rik=jmR7f2AwIB%2fVhA&riu=http%3a%2f%2fwww.apnphotographyschool.com%2fwp-content%2fuploads%2f2013%2f10%2fblurred-backgrounds.jpg&ehk=N5hoaOjIAJxeEq%2bINqBymYNRqsiWSJetS%2fFnlPRxEJA%3d&risl=&pid=ImgRaw") no-repeat fixed center;
+	background-size: cover;
+	padding-bottom: 300px;
+	color: black;
+}
+.page1{
+	background: linear-gradient(rgba(52, 152, 219,0.5),rgba(155, 89, 182,0.5)),url(anh.jpg) no-repeat fixed center;
+	height:100vh;
+}
+.page2{
+	background: url("https://th.bing.com/th/id/Ra068b09a91839f84cfd22880b2a233b1?rik=y4MHZd8kSKEVzg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fb%2f8%2fb%2f1086000-beautiful-simple-backgrounds-1920x1200.jpg&ehk=BRRfeRdy%2f5PMtS61kg%2bqs%2bbzpmEgsgcd6Kzza%2fXnzNQ%3d&risl=&pid=ImgRaw") no-repeat fixed center;
+	background-size: cover;
+	color: white;
+}
+.page3 {
+	background: url("https://www.m2asolutions.com/wp-content/uploads/2018/07/computer.jpg") no-repeat fixed center;
+}
+.page5 {
+	background: url("https://i.pinimg.com/originals/32/b8/77/32b877ed4aa7778cc7d43ebb7d95a6f1.png") no-repeat fixed center;
+	padding-bottom:300px;
+}
+.page6 {
+	background: linear-gradient(rgba(192, 57, 43,0.6),rgba(26, 188, 156,0.6)),url("https://www.how-to-study.com/images/study-skills-assessments.jpg") no-repeat fixed center;
+	height:100vh;
+}
+.TY {
+	background: url("https://cdn.wallpapersafari.com/32/9/t0wSAu.jpg")no-repeat fixed center;
+}
+
+/*page4*/
+.a {
+	display:block;
+	padding-left: 200px;
+	font-size:20px;
+	padding-bottom: 20px;
+}
+.a li {
+	padding-bottom: 20px;
+	padding-top: 15px;
+	color: black;
+}
+.a li a {
+	color: green;
+}
+h1, .courseh1 {
+	padding-top: 150px;
+	color: #FF69B4;
+	text-align: center;
+	font-size: 60px;
+}
+h2, .courseh2 {
+	padding-top: 80px;
+	padding-bottom: 50px;
+	color: #6A5ACD;
+	font-size: 40px;
+	padding-left: 100px;
+}
+
+
+
+
+/*page1*/
+h1, .home{
+	padding-top:150;
+	text-align:center;
+	font-size: 65px;
+	color: white;
+}
+h2, .home1{
+	padding-top: 80px;
+	color: white;
+	font-size: 25px;
+}
+
+
+
+/*page2*/
+h2, .about2{
+	padding-left: 300px;
+	padding-right:300px;
+	font-size: 25px;
+}
+
+/*page3*/
+.container3 {
+	width: 600px;
+	padding: 10% 0 0;
+	margin: auto;
+
+}
+.form {
+	position: relative;
+	z-index: 1;
+	background: #DCDCDC;
+	max-width: 0 auto 100px;
+	padding: 70px 50px;
+	text-align:center;
+	border-radius: 8px;
+}
+.form input, .form textarea {
+	outline: 1;
+	background: #f2f2f2;
+	width: 100%;
+	border:0;
+	margin: 0 0 15px;
+	padding: 20px;
+	box-sizing: border-box;
+	font-size:14px;
+	border-radius:8px;
+} 	
+.form button {
+	background: green;
+	width: 100%;
+	border:0;
+	padding:15px;
+	color: white;
+	font-size:15;
+	cursor: pointer;
+	border-radius: 8px;
+}
+/*page5*/
+h1, .artifacts {
+	padding-top: 100px;
+	color: darkblue;
+	font-size: 50px;
+} 
+h2, .artifacts1 {
+	padding-top: 200px;
+	padding-right: 70px;
+	color: black;
+	line-height: 40px;
+}
+h2, .artifacts3{
+	color:black;
+	padding-top:350px;
+	padding-left:70px;
+	text-align: left;
+}
+h2, .artifacts1 a, .artifacts3 a {
+	color: darkblue;
+}
+img, .style {
+	float: left;
+	border: 5px solid;
+	border-color: black;
+	width: 500px;
+	height: 500px;
+	margin-right: 100px;
+	margin-left:70px;
+	margin-top:150px;
+}
+img, .style1 {
+	float: right;
+	margin-top:250px;
+}
+//*page6*/
+h1, .MS{
+	padding-top: 150px;
+	color: 	#F0FFFF;
+}
+h2, .MS1{
+	font-size: 35px;
+	padding-top: 100px;
+	padding-left: 70px;
+	text-align: center;
+	color:	#F0FFF0;
+}
+h3, .SM3 {
+	padding-left: 500px;
+	line-height: 50px;
+	color:#FFE4E1;
+}
+h3, .SM3, li, a {
+	color:#FFE4E1;
+	font-size:25px;
+}
+/*Thank You*/
+h1, .TY {
+	padding-top: 200px;
+	color: white;
+}
