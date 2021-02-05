@@ -209,12 +209,10 @@ h2, .MS1{
 	text-align: center;
 	color:	#F0FFF0;
 }
-h3, .SM3 {
+.SM3 {
 	padding-left: 500px;
 	line-height: 50px;
 	color:#FFE4E1;
-}
-h3, .SM3, li, a {
 	color:#FFE4E1;
 	font-size:25px;
 }
